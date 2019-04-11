@@ -1,5 +1,5 @@
 #
-# This is the official kuesa metalayer as available on github.com/KDAB/kuesa
+# This is the official kuesa metalayer as available on github.com/KDAB/meta-kuesa
 # 
 #
 
